@@ -404,3 +404,8 @@ git rebase master
 git checkout master
 git merge experiment
 ```
+
+#### Rerference
+
+> http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+> https://git-scm.com/book/en/v2
