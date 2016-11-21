@@ -44,6 +44,8 @@ Configure
 
 > http://localhost:8080/
 
+> GitHub Plugin
+
 
 
 
