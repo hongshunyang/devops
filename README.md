@@ -40,6 +40,10 @@ rm -R ~/.jenkins (Reinstall)
 brew install jenkins
 brew services start/stop/restart jenkins
 ```
+Configure 
+
+> http://localhost:8080/
+
 
 
 
