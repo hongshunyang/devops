@@ -10,18 +10,22 @@ learn git
 
 > [Git Pro](https://git-scm.com/book/en/v2)
 
-> [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+> [Git CheatSheet](./git.md)
 
-## GitHub
+#### GitHub
 
-### Register Account
+##### Register
+    
+[sign up](http://github.com)
 
-### hub(Option)
+##### hub(Option)
 
 ```
 brew install hub
 ```
 Example:create a repo using command line
+
+> create repo: http://github.com/hongshunyang/devops
 
 ```
 mkdir devops
