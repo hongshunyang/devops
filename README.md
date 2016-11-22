@@ -14,12 +14,8 @@ learn git
 
 #### GitLab
 
-```
-brew install gitlab
-```
-
-
-
+> https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/install/installation.md
+> https://github.com/WebEntity/Installation-guide-for-GitLab-on-OS-X
 
 #### GitHub
 
