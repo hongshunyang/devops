@@ -33,6 +33,22 @@ cd devops
 hub create
 ```
 
+Or
+
+```
+mkdir devops
+cd devops
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hongshunyang/devops.git
+git push -u origin master
+```
+
+
+
 ## Jenkins
 
 ```
@@ -46,7 +62,9 @@ Configure
 
 > GitHub Plugin
 
+## Docker
 
+> https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
 
 ## Reference
 
