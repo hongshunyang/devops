@@ -62,6 +62,11 @@ Configure
 
 > GitHub Plugin
 
+### Travis CI
+
+> https://travis-ci.org/
+
+
 ## Docker
 
 > https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
