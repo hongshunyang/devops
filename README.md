@@ -48,4 +48,6 @@ Configure
 
 
 
+## Reference
 
+> http://www.stratoscale.com/blog/devops/practical-devops-use-case-github-jenkins-docker/
