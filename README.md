@@ -94,7 +94,7 @@ Configure
 
 > Install Kitematic
 
-> https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
+> [Docker Practice](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
 
 ## Reference
 
