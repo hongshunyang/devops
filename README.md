@@ -1,5 +1,19 @@
 # devops 
 
+## [Introduction](http://www.martinfowler.com/articles/continuousIntegration.html)
+
+* Continuous Integration
+
+![continuous integration](./misc/ci1.png)
+
+* Continuous Delivery
+
+![continuous delivery](./misc/cd2.png)
+
+* Continuous Deployment
+
+![continuous depolyment](./misc/cd3.png)
+
 ## Git
 
 ```
@@ -75,6 +89,10 @@ Configure
 
 
 ## Docker
+
+> [Install Docker](https://www.docker.com/products/overview)
+
+> Install Kitematic
 
 > https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
 
