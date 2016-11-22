@@ -12,6 +12,15 @@ learn git
 
 > [Git CheatSheet](./git.md)
 
+#### GitLab
+
+```
+brew install gitlab
+```
+
+
+
+
 #### GitHub
 
 ##### Register
