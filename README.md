@@ -26,6 +26,8 @@ learn git
 
 > [Git CheatSheet](./git.md)
 
+> [Git Completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+
 #### GitLab
 
 [Install on MacOSX 10.12.1](./gitlab.md)
@@ -96,13 +98,18 @@ Configure
 
 > [Learn Docker](./docker.md)
 
-### Container
+## CoreOS
 
-> https://github.com/jpetazzo/nsenter
+## Ansible
 
-```
-echo "[ -f ~/.bashrc_docker ] && . ~/.bashrc_docker" >> ~/.bashrc; source ~/.bashrc
-```
+## Saltstack
+
+## Chef
+
+## Puppet
+
+
+
 
 ## Reference
 
