@@ -96,6 +96,16 @@ Configure
 
 > [Docker Practice](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
 
+> [Docker Bible](https://www.gitbook.com/book/joshhu/docker_theory_install/details)
+
+### Container
+
+> https://github.com/jpetazzo/nsenter
+
+```
+echo "[ -f ~/.bashrc_docker ] && . ~/.bashrc_docker" >> ~/.bashrc; source ~/.bashrc
+```
+
 ## Reference
 
 > http://www.stratoscale.com/blog/devops/practical-devops-use-case-github-jenkins-docker/
