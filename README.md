@@ -108,25 +108,25 @@ Configure
 
 ## Docker
 
-> [Install Docker](https://www.docker.com/products/overview)
+> Docker is the world’s leading software containerization platform
 
-> Install Kitematic
+> [Get Started](https://www.docker.com/products/docker)
 
 > [Learn Docker](./docker.md)
 
-## CoreOS
+
+## Vagrant/Virtualbox,VMware,AWS
+
+> Create and configure lightweight, reproducible, and portable development environments.
+
+> [Get Started](https://www.vagrantup.com/docs/getting-started/)
+
 
 ## Ansible
-
-## Saltstack
 
 ## Chef
 
 ## Puppet
 
+## CoreOS 
 
-
-
-## Reference
-
-> http://www.stratoscale.com/blog/devops/practical-devops-use-case-github-jenkins-docker/
