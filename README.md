@@ -53,10 +53,6 @@ learn git
 
 #### GitHub
 
-##### Register
-    
-[sign up](http://github.com)
-
 ##### hub(Option)
 
 ```
