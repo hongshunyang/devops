@@ -127,7 +127,13 @@ Configure
 
 ### Saltstack
 
-> [Get Started](https://docs.saltstack.com/en/getstarted/fundamentals/index.html)
+> [SaltStack Fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/index.html)
+
+> [SaltStack Configuration Management](https://docs.saltstack.com/en/getstarted/config/index.html)
+
+> [Documention](https://docs.saltstack.com/en/latest/contents.html)
+
+> [JINJA2](http://jinja.pocoo.org/)
 
 ### Ansible
 
