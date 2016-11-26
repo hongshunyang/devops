@@ -39,10 +39,17 @@ learn git
 
 #### GitLab
 
-[Install on MacOSX 10.12.1](./gitlab.md)
+* [Install on MacOSX 10.12.1](./gitlab.md)
 
 > https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/install/installation.md
+
 > https://github.com/WebEntity/Installation-guide-for-GitLab-on-OS-X
+
+* [Install Docker Gitlab](https://gitlab.com/gitlab-org/gitlab-ce/tree/master/docker)
+
+* [Install Vagrant Gitlab](https://github.com/tuminoid/gitlab-installer)
+
+
 
 #### GitHub
 
