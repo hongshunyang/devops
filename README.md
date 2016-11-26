@@ -28,6 +28,15 @@ learn git
 
 > [Git Completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
+> If your os is Mac OSX with iTerm2:
+
+* brew install bash-completion
+
+* brew info bash-completion(add something to your ~/.bash_profile)
+
+* iTerm2->Preferences->Profiles(right side panel)->General->Command(option): check Command adding '/usr/local/bin/bash -l'
+
+
 #### GitLab
 
 [Install on MacOSX 10.12.1](./gitlab.md)
