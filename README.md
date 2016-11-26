@@ -131,7 +131,7 @@ Configure
 
 > [SaltStack Configuration Management](https://docs.saltstack.com/en/getstarted/config/index.html)
 
-> [Documention](https://docs.saltstack.com/en/latest/contents.html)
+> [SaltStack Documention](https://docs.saltstack.com/en/latest/contents.html)
 
 > [JINJA2](http://jinja.pocoo.org/)
 
