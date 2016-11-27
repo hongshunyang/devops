@@ -37,7 +37,7 @@ learn git
 * iTerm2->Preferences->Profiles(right side panel)->General->Command(option): check Command adding '/usr/local/bin/bash -l'
 
 
-## Gerrit
+### Gerrit
 
 > [Code Review](https://www.gerritcodereview.com/index.md)
 
@@ -101,7 +101,7 @@ Configure
 
 > GitHub Plugin
 
-### Travis CI
+## Travis CI
 
 > https://travis-ci.org/
 
@@ -115,6 +115,8 @@ Configure
 > [Learn Docker](./docker.md)
 
 
+## CoreOS
+
 ## Vagrant/Virtualbox,VMware,AWS
 
 > Create and configure lightweight, reproducible, and portable development environments.
@@ -122,10 +124,7 @@ Configure
 > [Get Started](https://www.vagrantup.com/docs/getting-started/)
 
 
-## Configuration Management 
-
-
-### Saltstack
+## Saltstack
 
 > [SaltStack Fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/index.html)
 
@@ -135,11 +134,7 @@ Configure
 
 > [JINJA2](http://jinja.pocoo.org/)
 
-### Ansible
+## Ansible
 
-### Chef
 
-### Puppet
-
-## CoreOS 
 
