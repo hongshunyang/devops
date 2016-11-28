@@ -21,14 +21,7 @@
 
 > The best practice is that 
 
-> Install Vagrant first on your macosx or windows, 
-
-> Then build a linux os you like,
-
-> Begin coding in this vagrant+linux development environment.
-
-> [Why vagrant?](https://www.vagrantup.com/docs/why-vagrant/)
-
+> Docker your development environment!
 
 ## Git
 
@@ -133,7 +126,7 @@ Configure
 
 ## CoreOS
 
-## Vagrant/Virtualbox,VMware,AWS
+## Vagrant/Virtualbox,VMware,AWS[Docker much better!]
 
 > Create and configure lightweight, reproducible, and portable development environments.
 
