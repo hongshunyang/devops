@@ -25,7 +25,7 @@
 
 > Then build a linux os you like,
 
-> Begin coding in this vagrant+linux development environment.
+> Begin docker in this vagrant+linux development environment.
 
 
 
