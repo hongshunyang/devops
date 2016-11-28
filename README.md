@@ -28,7 +28,6 @@
 > Begin docker in this vagrant+linux development environment.
 
 
-
 ## Git
 
 ```
@@ -132,7 +131,7 @@ Configure
 
 ## CoreOS
 
-## Vagrant/Virtualbox,VMware,AWS
+## Vagrant/Virtualbox,VMware,AWS[Docker much better!]
 
 > Create and configure lightweight, reproducible, and portable development environments.
 
