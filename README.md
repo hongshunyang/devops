@@ -27,6 +27,7 @@
 
 > Begin coding in this vagrant+linux development environment.
 
+> [Why vagrant?](https://www.vagrantup.com/docs/why-vagrant/)
 
 
 ## Git
