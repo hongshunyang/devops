@@ -15,19 +15,6 @@
 ![continuous depolyment](./misc/cd3.png)
 
 
-# Notes
-
-> If your computer os is MacOSX or Windows working on production,
-
-> The best practice is that 
-
-> Install Vagrant first on your macosx or windows, 
-
-> Then build a linux os you like,
-
-> Begin docker in this vagrant+linux development environment.
-
-
 ## Git
 
 ```
