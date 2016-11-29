@@ -127,6 +127,8 @@ Configure
 
 ## Packer
 
+>Packer is a tool for creating machine and container images for multiple platforms from a single source configuration.
+
 > [Get Started](https://www.packer.io/)
 
 ## Saltstack
