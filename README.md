@@ -118,12 +118,16 @@ Configure
 
 ## CoreOS
 
-## Vagrant/Virtualbox,VMware,AWS[Docker much better!]
+## Vagrant/Virtualbox,VMware,AWS
 
 > Create and configure lightweight, reproducible, and portable development environments.
 
 > [Get Started](https://www.vagrantup.com/docs/getting-started/)
 
+
+## Packer
+
+> [Get Started](https://www.packer.io/)
 
 ## Saltstack
 
