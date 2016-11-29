@@ -147,3 +147,4 @@ Configure
 
 > [Get Started](http://kubernetes.io/docs/getting-started-guides/)
 
+> [Kick The Tires](http://kubernetes.io/docs/getting-started-guides/#local-machine-solutions)
