@@ -131,6 +131,14 @@ Configure
 
 > [Get Started](https://www.packer.io/)
 
+## Terraform
+
+## Vault
+
+## Nomad
+
+## Consul
+
 ## Saltstack
 
 > [SaltStack Fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/index.html)
@@ -140,8 +148,6 @@ Configure
 > [SaltStack Documention](https://docs.saltstack.com/en/latest/contents.html)
 
 > [JINJA2](http://jinja.pocoo.org/)
-
-## Ansible
 
 ## Kubernetes
 
