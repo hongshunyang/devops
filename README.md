@@ -15,6 +15,17 @@
 ![continuous depolyment](./misc/cd3.png)
 
 
+## DevOps Tools From HashiCorp
+
+* Defined
+
+![devops defined](./misc/hashicorp.devops2.png)
+
+* Scenarios
+
+![devops scenarios](./misc/hashicorp.devops.png)
+
+
 ## Git
 
 ```
