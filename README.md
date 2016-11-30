@@ -133,6 +133,12 @@ Configure
 
 ## Terraform
 
+> WRITE, PLAN, AND CREATE INFRASTRUCTURE AS CODE_
+
+> Terraform is not a configuration management tool, 
+
+> And it allows existing tooling to focus on their strengths: bootstrapping and initializing
+
 > [Get Started](https://www.terraform.io/intro/index.html)
 
 ## Vault
