@@ -127,11 +127,17 @@ Configure
 
 ## Packer
 
->Packer is a tool for creating machine and container images for multiple platforms from a single source configuration.
+> Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration.
+
+> Packer is a tool for creating machine and container images for multiple platforms from a single source configuration.
 
 > [Get Started](https://www.packer.io/)
 
 ## Terraform
+
+> Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. 
+
+> Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
 > WRITE, PLAN, AND CREATE INFRASTRUCTURE AS CODE_
 
