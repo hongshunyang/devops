@@ -133,7 +133,10 @@ Configure
 
 ## Terraform
 
+> [Get Started](https://www.terraform.io/intro/index.html)
+
 ## Vault
+
 
 ## Nomad
 
