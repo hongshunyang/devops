@@ -166,11 +166,23 @@ Configure
 
 > Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.
 
-
+> [Get Started](https://www.vaultproject.io/intro/)
 
 ## Nomad
 
+> Nomad is a tool for managing a cluster of machines and running applications on them. 
+
+> Nomad abstracts away machines and the location of applications, 
+> and instead enables users to declare what they want to run and Nomad handles where they should run and how to run them.
+
+> [Get Started](https://www.nomadproject.io/intro/index.html)
+
+> [Nomad scheduled 1 million containers on 5,000 hosts in under 5 minutes](https://www.hashicorp.com/c1m.html)
+
 ## Consul
+
+## Serf
+
 
 ## Saltstack
 
