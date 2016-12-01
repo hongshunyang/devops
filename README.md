@@ -198,6 +198,15 @@ Configure
 
 > [Get Started](https://www.serf.io/intro/index.html)
 
+
+## Serf(low level) VS Consul(High level)
+
+> Serf does not provide any of the high-level features of Consul.
+
+> In fact, the internal gossip protocol used within Consul, is powered by the Serf library. 
+
+> Consul leverages the membership and failure detection features, and builds upon them.
+
 ## Saltstack
 
 > [SaltStack Fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/index.html)
