@@ -182,14 +182,21 @@ Configure
 ## Consul
 
 > Service Discovery
+
 > Failure Detection
+
 > Multi Datacenter
+
 > Key/Value Storage
 
 > [Get Started](https://www.consul.io/intro/index.html)
 
 ## Serf
 
+> Serf is a tool for cluster membership, failure detection, 
+> and orchestration that is decentralized, fault-tolerant and highly available.
+
+> [Get Started](https://www.serf.io/intro/index.html)
 
 ## Saltstack
 
