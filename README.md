@@ -181,6 +181,13 @@ Configure
 
 ## Consul
 
+> Service Discovery
+> Failure Detection
+> Multi Datacenter
+> Key/Value Storage
+
+> [Get Started](https://www.consul.io/intro/index.html)
+
 ## Serf
 
 
