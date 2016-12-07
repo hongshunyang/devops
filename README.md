@@ -25,6 +25,11 @@
 
 ![devops scenarios](./misc/hashicorp.devops.png)
 
+## Networking Knowledge
+
+* [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+
+* [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
 
 ## Git
 
