@@ -8,11 +8,11 @@ Example: ~/.ssh/terraform.pub
 DESCRIPTION
 }
 
+
 variable "aws_instance_user" {
   description = "free tier"
   default = "ubuntu"
 }
-
 
 variable "aws_instance_type" {
   description = "free tier"
@@ -23,6 +23,11 @@ variable "key_name" {
   description = "Desired name of AWS key pair"
   default = "terraform"
 }
+
+variable "aws_access_key" {
+ description = "must access to ec2"
+}
+variable "aws_secret_key" {}
 
 variable "aws_region" {
   description = "AWS region to launch servers."
