@@ -43,6 +43,8 @@ brew install git
 
 learn git
 
+> [Git Useful](https://github.com/xirong/my-git/blob/master/useful-git-command.md)
+
 > [Git Pro](https://git-scm.com/book/en/v2)
 
 > [Git CheatSheet](./git.md)
